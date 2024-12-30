@@ -2,6 +2,10 @@
 ### Overview
 This project demonstrates the implementation of a scalable data engineering solution using Azure Databricks and Delta Lake for CDM (Common Data Model) and SCD (Slowly Changing Dimensions) Type 2 logic. The pipeline follows medallion architecture as it processes raw data from Bronze (raw layer) to Silver (cleansed layer), ensuring data integrity and compliance with historical data requirements.
 
+### Data Pipeline Architecture
+![data-pipeline-architecture](https://github.com/user-attachments/assets/06936cbb-1c7f-43e8-b566-6cf72d0d08f3)
+
+
 ### Key Features
 * SCD Type 2 Implementation: Maintains historical records while tracking data changes for accurate reporting.
 * CDM ETL Pipeline: Transforms raw data into a structured format following the Common Data Model standards.
