@@ -22,7 +22,7 @@ This project demonstrates the implementation of a scalable data engineering solu
 * Data Processing: Azure Databricks (PySpark)
 * Data Storage: Azure Data Lake Storage (ADLS) with Delta Lake
 * ETL Orchestration: Azure Data Factory
-* Monitoring: Azure Monitor
+* Monitoring: ADF Monitor
 * Version Control: GitHub
 
 ### Pipeline Details
