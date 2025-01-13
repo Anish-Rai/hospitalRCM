@@ -16,13 +16,6 @@ This project demonstrates the implementation of a scalable data engineering solu
 * Bronze: Raw, unprocessed data.
 * Silver: Cleansed and enriched data.
 * Gold (Future Scope): Aggregated and analytics-ready data.
-* Tools and Technologies
-* Cloud Platform: Microsoft Azure
-* Data Processing: Azure Databricks (PySpark)
-* Data Storage: Azure Data Lake Storage (ADLS) with Delta Lake
-* ETL Orchestration: Azure Data Factory
-* Monitoring: Azure Monitor
-* Version Control: GitHub
 
 ### Tools and Technologies
 * Cloud Platform: Microsoft Azure
